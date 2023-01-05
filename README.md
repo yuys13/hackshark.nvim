@@ -1,2 +1,3 @@
 # hackshark.nvim
-fast colorscheme for neovim
+
+WIP: fast colorscheme for neovim
